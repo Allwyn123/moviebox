@@ -8,8 +8,8 @@ var page_check = document.querySelector("body > div");
 if(localStorage.getItem("user") == null){
     var userData = {
             "user":[
-            {"email":"allwyns@axioned.com",
-            "password":"Abcd@123",
+            {"email":"my@email.com",
+            "password":"mypassword",
             "id":101,
             "favorite": [],
             "rating": []
